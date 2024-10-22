@@ -12,25 +12,25 @@ A Computer Laboratory Management System built using PHP and MySQL, designed to s
 ## Screenshots
 
 ### Login Page
-![Login Page](path/to/1.jpg)
+![Login Page](screenshots/1.jpg)
 
 ### Dashboard
-![Dashboard](path/to/2.jpg)
+![Dashboard](screenshots/2.jpg)
 
 ### Transaction Management
-![Transaction Management](path/to/3.jpg)
+![Transaction Management](screenshots/3.jpg)
 
 ### Item Management
-![Item Management](path/to/4.jpg)
+![Item Management](screenshots/4.jpg)
 
 ### Borrower Management
-![Borrower Management](path/to/5.jpg)
+![Borrower Management](screenshots/5.jpg)
 
 ### Room Management
-![Room Management](path/to/6.jpg)
+![Room Management](screenshots/6.jpg)
 
 ### Report Generation
-![Report Generation](path/to/8.jpg)
+![Report Generation](screenshots/8.jpg)
 
 ## System Flowchart
 

@@ -35,7 +35,7 @@ A Computer Laboratory Management System built using PHP and MySQL, designed to s
 ## System Flowchart
 
 The flowchart below outlines the process flow of the system:
-
+![Flow Chart](screenshots/Flowchart.jpg)
 ```plaintext
 1. Login:
    - User: Redirects to User Dashboard.
@@ -52,3 +52,4 @@ The flowchart below outlines the process flow of the system:
 4. Connection between User and Admin:
    - Users submit reservation requests.
    - Admins manage the requests and notify users.
+
